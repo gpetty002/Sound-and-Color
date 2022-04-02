@@ -78,7 +78,7 @@ the word Blue comes out on the screen, but it is written in yellow font. The cor
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording] https://ucdavis.zoom.us/rec/share/2Vv6g4koGSA_X4rEfTjhaHuh26NF2rW8oNRqmZrYXLwbHR87gMHTiz8hW5eeZBWl.vIGKPbO2auj02WCS?startTime=1648880180000
 
 
 ## License
