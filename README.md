@@ -71,7 +71,9 @@ produce more complicated games on a website, such as a past project of mine whic
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [If I had a few more hours to work on this project, I would spend them changing the tune of the buttons and maybe add a 
-different game mode. Similar to one of Nintendo's DS game, Brain Age, I would add a similar mini game where users are  ]
+different game mode. Similar to one of Nintendo's DS game, Brain Age, I would add a similar mini game where users are given the 
+name of a color, but they're supposed to match what color of font the word is in, rather than what the word spells out. For example,
+the word Blue comes out on the screen, but it is written in yellow font. The correct answer would be the yellow button.]
 
 
 
